@@ -1,0 +1,126 @@
+body {
+  background-image: url(fotos/brindis\ bdega.jpg);
+  background-size: 600px;
+  margin: auto;
+  width: 640px; 
+  padding: 50px;   
+   
+}
+
+h1 {  font-size: 100px; 
+  color: rgb(177, 53, 40); 
+  font-family:'Lobster Two', sans-serif;
+}
+
+h2 {
+  float: auto;
+  background-color: bisque;
+  background-size: 300px 100px;
+}
+
+h3 {
+  color: rgba(0, 141, 136);
+  font-size: 30px;
+}
+
+h4 {
+  color: rgb(177, 53, 40);
+  font-size: 25px;
+}
+
+.lista-de-cosas {
+  color: rgba(235, 140, 6, 0.505);
+  font-size: 20px;
+}
+
+.foto-d {
+  float: right;
+  width: 300px; height: 400px;
+  border-width: 5px;
+  border-style: ridge;
+  border-color: rgb(163, 35, 35);
+}
+
+.foto-i { 
+  float:left;
+  width:300px; height: 400px;
+  border-radius: 60px;
+  border-width: 5px;
+  border-style: ridge;
+  border-color: rgb(163, 35, 35);
+}
+#parrafo-inicio {
+  background-color: bisque;
+  color: rgb(0, 0, 0);
+  font-family:'Lobster Two', sans-serif;
+  font-size: 19px;
+}
+
+.parrafo-d {
+  font-family:'Lobster Two', sans-serif;
+  font-size: 25px;
+  margin-left: 320px;
+  color: rgba(0, 141, 136);
+  background-color: rgb(218, 253, 253);
+}
+
+.parrafo-i {
+  font-family:'Lobster Two', sans-serif;
+  font-size: 25px;
+  margin-block-start: auto;
+  color: rgb(163, 35, 35);
+  background-color: bisque;
+}
+
+h2,
+h3,
+h4,
+ul,
+ol {
+  font-family:'Lobster Two', sans-serif;
+  font-size: 30px;
+}
+
+#click-img {
+color: bisque;
+background-color: rgb(254, 103, 86);
+}
+
+#pie-pagina {
+  font-family: 'Nanum Pen Script', cursiva;
+  font-size: 25px;
+  color: rgb(163, 35, 35);
+  background-color: bisque;
+}
+
+#recopilacion-img {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a {
+  color:rgb(103, 17, 146);
+}
+
+div {
+  background-color: rgb(218, 253, 253);
+}
+
+#durmiendo,
+#andorra,
+#cocinando,
+#amor {
+  margin-left: 320px;
+  margin-top: 50px;
+  color: rgb(163, 35, 35);
+}
+
+#viaje,
+#comilon,
+#ninjago,
+#postu {
+  color:rgba(0, 141, 136);
+}
+
+
+
+
